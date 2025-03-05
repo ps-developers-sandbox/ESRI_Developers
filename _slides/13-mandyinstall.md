@@ -4,6 +4,7 @@ title: "Welcome to our slide deck!"
 ---
 
 Testing
+Mandeep Singh
 
 ![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 {: .center}
