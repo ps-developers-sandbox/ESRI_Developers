@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Meathead bouncer.
+Hello World.
+Test line for demo.
 
 ![steroidtocat](https://octodex.github.com/images/steroidtocat.png)
 {: .center}
