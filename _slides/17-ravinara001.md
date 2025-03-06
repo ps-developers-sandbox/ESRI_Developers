@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
-
-![orderedlistocat](https://octodex.github.com/images/orderedlistocat.png)
+Hello World!
+Test line for demo.
+![orderedlistocat](https://octodex.github.com/images/hula_loop_octodex03.gif)
 {: .center}
